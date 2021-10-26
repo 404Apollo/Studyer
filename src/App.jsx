@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <main>
-      React⚛️ + Vite⚡ + Replit🌀
+      <h1>HELLO</h1>
     </main>
   );
 }
